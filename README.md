@@ -1,0 +1,1 @@
+Fork of https://bitbucket.org/z_bodya/gallerymanager

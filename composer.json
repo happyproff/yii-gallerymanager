@@ -1,0 +1,21 @@
+{
+    "name": "happyproff/yii-gallerymanager",
+    "description": "Fork of z_bodya/gallerymanager.",
+    "type": "yii-extension",
+    "extra": {
+        "installer-name": "galleryManager"
+    },
+    "license": "BSD-3-Clause",
+
+    "authors": [
+        {
+            "name": "Bogdan Savluk",
+            "email": "savluk.bogdan@gmail.com"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.3",
+        "z_bodya/yii-image": "*"
+    }
+}
